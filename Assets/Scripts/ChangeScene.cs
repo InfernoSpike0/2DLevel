@@ -5,6 +5,6 @@ public class ChangeScene : MonoBehaviour
 {
     public void ChangeGame1()
     {
-        SceneManager.LoadScene("Game1");
+        SceneManager.LoadScene("Level1");
     }
 }

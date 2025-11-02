@@ -360,6 +360,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestCharacter
       objectReference: {fileID: 0}
+    - target: {fileID: 3370062665922259762, guid: e76affd4ef641d4458003ecb5b7975ac, type: 3}
+      propertyPath: speed
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6430983029435574624, guid: e76affd4ef641d4458003ecb5b7975ac, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.51
