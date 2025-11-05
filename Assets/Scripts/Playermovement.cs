@@ -1,7 +1,7 @@
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class Playermovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] public float speed;
     private Rigidbody2D body;
