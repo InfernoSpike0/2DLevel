@@ -1,11 +1,12 @@
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] public float speed;
     public Rigidbody2D body;
-    Vector2 startpostion;
+    //Vector2 startpostion;
     [SerializeField]public float jumpForce;
     [SerializeField] public float jumpcooldown = 0.5f;
     [SerializeField] public float nextjumptime;
@@ -18,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
         //grabs the animator
 
    
-       startpostion = transform.position;
+      // startpostion = transform.position;
     
     }
 
@@ -48,7 +49,9 @@ public class PlayerMovement : MonoBehaviour
 
 public void Die()
     {
-        transform.position = startpostion;
+
+        SceneManager.LoadScene("Level1");
+        //transform.position = startpostion;
     }
 
 }
