@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Spikes : MonoBehaviour
 {
@@ -8,8 +7,7 @@ public class Spikes : MonoBehaviour
 
         if (collision.collider.GetComponent<PlayerMovement>()) {
 
-            SceneManager.LoadScene("Level1");
-            //collision.collider.GetComponent<PlayerMovement>().Die();
+            collision.collider.GetComponent<PlayerMovement>().Die();
 
         }
     }
