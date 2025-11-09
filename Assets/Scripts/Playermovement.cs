@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] public float jumpcooldown = 0.5f;
     [SerializeField] public float nextjumptime;
     [SerializeField] public float Duration_Fliped_World;
+    [SerializeField] private Animator _animator;
 
     private void Awake()
     {
@@ -53,6 +54,14 @@ public class PlayerMovement : MonoBehaviour
     public void movement()
     {
         body.linearVelocity = new Vector2(Input.GetAxis("Horizontal") * speed, body.linearVelocity.y);
+        if (body.linearVelocity.x != 0)
+        {
+            _animator.SetBool("isRunning", true);
+        }
+        else
+        {
+            _animator.SetBool("isRunning", false);
+        }
     }
 
     public void BoostSpeed(float boostAmount, float duration)
