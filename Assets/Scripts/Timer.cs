@@ -4,40 +4,42 @@ using UnityEngine.SceneManagement;
 
 public class CountdownTimer : MonoBehaviour
 {
-
     public static CountdownTimer Instance;
 
-    [SerializeField] public float startTime = 600f; // This is 10 minutes
+    [SerializeField] public float startTime = 600f; // 10 minutes
     [SerializeField] public TMP_Text timerText;
 
     private float currentTime;
-
+    private bool initialized = false;
 
     void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
+
+            
+            transform.SetParent(null);
             DontDestroyOnLoad(gameObject);
+
+            SceneManager.sceneLoaded += OnSceneLoaded;
             currentTime = startTime;
+            initialized = true;
         }
         else
         {
             Destroy(gameObject);
             return;
         }
-
-
-        SceneManager.sceneLoaded += OnSceneLoaded;
-
     }
 
     void Update()
     {
+        if (!initialized) return;
+
         currentTime -= Time.deltaTime;
         currentTime = Mathf.Max(currentTime, 0f);
         UpdateTimerText();
-
 
         if (currentTime <= 0f)
         {
@@ -57,7 +59,7 @@ public class CountdownTimer : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        
+       
         if (timerText == null)
         {
             GameObject foundText = GameObject.FindGameObjectWithTag("TimerText");
@@ -65,7 +67,20 @@ public class CountdownTimer : MonoBehaviour
             {
                 timerText = foundText.GetComponent<TMP_Text>();
                 UpdateTimerText();
+                Debug.Log("TimerText re-linked in new scene.");
+            }
+            else
+            {
+                Debug.LogWarning("No TimerText found in new scene!");
             }
         }
     }
+
+    public void ResetTime()
+    {
+        currentTime = startTime;
+        UpdateTimerText();
+    }
+
+    public float GetCurrentTime() => currentTime;
 }
