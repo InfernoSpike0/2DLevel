@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement();
         jump();
-        // if (Input.GetKeyDown(KeyCode.F)) flipWorld(3f);
+        
     }
 
     private void OnDestroy()

@@ -10,27 +10,14 @@ public class Switchinglevels : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        print("trigger Entered");
-
-
-
-
+        print("Trigger Entered");
 
         if (other.tag == "player")
         {
-            print("Switching scene to" + scenceBuildIndex);
+            print("Switching scene to " + scenceBuildIndex);
             SceneManager.LoadScene(scenceBuildIndex, LoadSceneMode.Single);
 
         }
-
-
-
-
-
-
-
-
-
     }
 
 
