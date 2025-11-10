@@ -6,6 +6,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public bool isflipped = false;
     public Rigidbody2D body;
+    public int ScoreCollected = 0;
+    public int ScoreToAdvance = 3;
     [SerializeField] public float speed;
     [SerializeField] public float jumpForce;
     [SerializeField] public float jumpcooldown = 0.5f;
@@ -23,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement();
         jump();
-        // if (Input.GetKeyDown(KeyCode.F)) flipWorld(3f);
+        
     }
 
     private void OnDestroy()
