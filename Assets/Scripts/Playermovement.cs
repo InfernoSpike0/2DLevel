@@ -57,6 +57,14 @@ public class PlayerMovement : MonoBehaviour
         if (body.linearVelocity.x != 0)
         {
             _animator.SetBool("isRunning", true);
+
+            if (body.linearVelocity.x > 0)
+            {
+                transform.localScale = new Vector3(10,10,10);
+            } else if (body.linearVelocity.x < 0)
+            {
+                transform.localScale = new Vector3(-10, 10, 10);
+            }
         }
         else
         {
