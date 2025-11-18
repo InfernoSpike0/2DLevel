@@ -50,23 +50,38 @@ public class PlayerMovement : MonoBehaviour
             float jumpDirection = isflipped ? -1f : 1f;
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpForce * jumpDirection);
             nextjumptime = Time.time + jumpcooldown;
+
         }
     }
 
     public void movement()
     {
         body.linearVelocity = new Vector2(Input.GetAxis("Horizontal") * speed, body.linearVelocity.y);
+    }
+
+    public void animations()
+    {
+
+        if (body.linearVelocity.y != 0)
+        {
+            _animator.SetBool("isJumping", true);
+        } else
+        {
+            _animator.SetBool("isJumping", false);
+        }
+
+        if (body.linearVelocity.x > 0)
+        {
+            transform.localScale = new Vector3(10, 10, 10);
+        }
+        else if (body.linearVelocity.x < 0)
+        {
+            transform.localScale = new Vector3(-10, 10, 10);
+        }
+
         if (body.linearVelocity.x != 0)
         {
             _animator.SetBool("isRunning", true);
-
-            if (body.linearVelocity.x > 0)
-            {
-                transform.localScale = new Vector3(10,10,10);
-            } else if (body.linearVelocity.x < 0)
-            {
-                transform.localScale = new Vector3(-10, 10, 10);
-            }
         }
         else
         {
