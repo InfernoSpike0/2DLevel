@@ -153,6 +153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Laser
   speed: 6.5
   lifeTime: 4
+  shootDirection: {x: -1, y: 0}
 --- !u!50 &3777348071315670463
 Rigidbody2D:
   serializedVersion: 5
