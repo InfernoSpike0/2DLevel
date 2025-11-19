@@ -1,4 +1,5 @@
 using Unity.VisualScripting;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -38,13 +39,22 @@ public class PlayerMovement : MonoBehaviour
         ResetWorld();
     }
 
+
     public void Die()
     {
+        StartCoroutine(DieRoutine());
+    }
+
+    public IEnumerator DieRoutine()
+    {
+
         _animator.SetBool("isDead", true);
+        yield return new WaitForSeconds(2f);
+
         SceneManager.LoadScene("Level1");
     }
 
-    public void jump()
+public void jump()
     {
         if (Input.GetKeyDown(KeyCode.Space) && Time.time >= nextjumptime)
         {
