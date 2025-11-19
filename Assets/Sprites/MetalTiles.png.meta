@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1f4d9ae93b7227b4d9e3646ffade2bae
+guid: 72d772a5d16c6514fb3c44a972798d0f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6777141397313348846
-    second: MetalTiles_0
+      213: -1031246075449301452
+    second: MetalTiles 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -112,15 +112,11 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape:
-      - - {x: 16, y: 16}
-        - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21b1b845ec1c2f1a0800000000000000
-      internalID: -6777141397313348846
+      spriteID: 9922bf72533fee04583827789461e592
+      internalID: -356447624
       vertices: []
       indices: 
       edges: []
@@ -141,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f4ee167175bd50418e44a2ceadd1f14
-      internalID: 1005506888
+      spriteID: 43f65988b31f1bd4781979d7f48ae253
+      internalID: 814744651
       vertices: []
       indices: 
       edges: []
@@ -163,8 +159,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 380cf4b4b54549945b01624580ea88e7
-      internalID: -862386387
+      spriteID: 26c931069e77f094694561acd6b8907e
+      internalID: -1594349952
       vertices: []
       indices: 
       edges: []
@@ -185,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb4cc63896aad7340ba8693d991e9c51
-      internalID: 2014246158
+      spriteID: 0d91624217d0e2c43a04477df25e04ff
+      internalID: 732011481
       vertices: []
       indices: 
       edges: []
@@ -207,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: add16397093472840ad961808398c112
-      internalID: -716071734
+      spriteID: fc8c5d1f7eb99184ea48fbb8cef9a873
+      internalID: -1214143714
       vertices: []
       indices: 
       edges: []
@@ -229,8 +225,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4b934926ec2c004dab62caa89d84aab
-      internalID: -405370176
+      spriteID: 1257d6242a2bae24eaf1a6f192ac8884
+      internalID: 1802958624
       vertices: []
       indices: 
       edges: []
@@ -251,8 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c42844d9745f04bbb523e3b14a6490
-      internalID: 1468696653
+      spriteID: 55350e34bb0b16d40b0f6d41615a0bd0
+      internalID: 1085671100
       vertices: []
       indices: 
       edges: []
@@ -273,8 +269,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 295073cfab58eac44a1c62f96d9418b7
-      internalID: -1232321422
+      spriteID: 8897fda01303c874b80c1ee6c94bc291
+      internalID: 456716330
       vertices: []
       indices: 
       edges: []
@@ -295,8 +291,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acbefb61ef17da8479c277fa43b89658
-      internalID: -1701030165
+      spriteID: 33f4e9393fd0ec146880b28106bead16
+      internalID: 1029033098
       vertices: []
       indices: 
       edges: []
@@ -317,8 +313,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcacd972feba44b41a2a1299b946666a
-      internalID: 56836886
+      spriteID: cb886f3dff74b6b4f84ed085719526a9
+      internalID: -522065425
       vertices: []
       indices: 
       edges: []
@@ -339,8 +335,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8717bb1cd9d9bd6498f8c1bc3ae969e7
-      internalID: -297928821
+      spriteID: 3aaba0b359c04e441b9b401e9787fce4
+      internalID: 104515622
       vertices: []
       indices: 
       edges: []
@@ -361,36 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8430c8a84f67c144e8e2771b8c6a11ad
-      internalID: -1418079630
+      spriteID: 90f2d8fade9ac414e8894f4940619d51
+      internalID: -1126616518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
       name: MetalTiles_12
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb2eed83fa846454db0a87acdd5f1524
-      internalID: 1418557076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MetalTiles_13
       rect:
         serializedVersion: 2
         x: 96
@@ -405,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd593f80e322f574eba7bc01d7f3a13f
-      internalID: 1965020252
+      spriteID: a62e0aa92a6684d419708c1a270b73f9
+      internalID: 534035439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MetalTiles_14
+      name: MetalTiles_13
       rect:
         serializedVersion: 2
         x: 128
@@ -427,14 +401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22bb470701f7983409ab091bb49231c4
-      internalID: -1819509823
+      spriteID: 4e045e3b10e33db44b52930496056d72
+      internalID: -1463418232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MetalTiles_15
+      name: MetalTiles_14
       rect:
         serializedVersion: 2
         x: 0
@@ -449,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1918f20fd6c7ee346aa7dadd3f7576ef
-      internalID: 84600749
+      spriteID: 5a3ee0f9cec47e3459bad92bd683308d
+      internalID: -109656863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MetalTiles_16
+      name: MetalTiles_15
       rect:
         serializedVersion: 2
         x: 32
@@ -471,14 +445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd63bcaa6f7414949b7c7b46fcbe5f1e
-      internalID: 75517408
+      spriteID: 726c5293a4a17b84abadb083dbee6754
+      internalID: 1049007526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MetalTiles_17
+      name: MetalTiles_16
       rect:
         serializedVersion: 2
         x: 64
@@ -493,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27c06def1003ee46ae66b005c4c5316
-      internalID: 603079835
+      spriteID: cff2f36d5f769cd4d8df9f71d6b18bd5
+      internalID: -807852635
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MetalTiles_18
+      name: MetalTiles_17
       rect:
         serializedVersion: 2
         x: 96
@@ -515,8 +489,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d45a0752de19cb74f845b8750a2c4461
-      internalID: -2032570657
+      spriteID: b64f75036872dd844a330d643fe34bc5
+      internalID: 1902985422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalTiles_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706d7e928e2c0642ba7b9a9be5f4e41
+      internalID: -1460527355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalTiles_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba6ca6a8518604bb2ce82e3ce5a429
+      internalID: -1212051315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalTiles_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af3f66550e938d45af679c029059e59
+      internalID: -927293338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MetalTiles_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ca111e28f0764c8ca6010828c13b3
+      internalID: -1741085351
       vertices: []
       indices: 
       edges: []
@@ -525,7 +587,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 183d7283032fd8d4fb7745266a97fbd3
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -537,25 +599,28 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      MetalTiles_0: -6777141397313348846
-      MetalTiles_1: 1005506888
-      MetalTiles_10: -297928821
-      MetalTiles_11: -1418079630
-      MetalTiles_12: 1418557076
-      MetalTiles_13: 1965020252
-      MetalTiles_14: -1819509823
-      MetalTiles_15: 84600749
-      MetalTiles_16: 75517408
-      MetalTiles_17: 603079835
-      MetalTiles_18: -2032570657
-      MetalTiles_2: -862386387
-      MetalTiles_3: 2014246158
-      MetalTiles_4: -716071734
-      MetalTiles_5: -405370176
-      MetalTiles_6: 1468696653
-      MetalTiles_7: -1232321422
-      MetalTiles_8: -1701030165
-      MetalTiles_9: 56836886
+      MetalTiles_0: -356447624
+      MetalTiles_1: 814744651
+      MetalTiles_10: 104515622
+      MetalTiles_11: -1126616518
+      MetalTiles_12: 534035439
+      MetalTiles_13: -1463418232
+      MetalTiles_14: -109656863
+      MetalTiles_15: 1049007526
+      MetalTiles_16: -807852635
+      MetalTiles_17: 1902985422
+      MetalTiles_18: -1460527355
+      MetalTiles_19: -1212051315
+      MetalTiles_2: -1594349952
+      MetalTiles_20: -927293338
+      MetalTiles_21: -1741085351
+      MetalTiles_3: 732011481
+      MetalTiles_4: -1214143714
+      MetalTiles_5: 1802958624
+      MetalTiles_6: 1085671100
+      MetalTiles_7: 456716330
+      MetalTiles_8: 1029033098
+      MetalTiles_9: -522065425
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
