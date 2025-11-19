@@ -60,10 +60,10 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.rotation = target.transform.rotation;
         }
-    }
-    
+
         animations();
     }
+    
 
     private void OnDestroy()
     {
