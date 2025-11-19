@@ -3,22 +3,15 @@ using UnityEngine.SceneManagement;
 
 public class Switchinglevels : MonoBehaviour
 {
-
     public int scenceBuildIndex;
-
-
-
     private void OnTriggerEnter2D(Collider2D other)
     {
-        print("Trigger Entered");
+        print("trigger Entered");
 
         if (other.tag == "player")
         {
-            print("Switching scene to " + scenceBuildIndex);
+            print("Switching scene to" + scenceBuildIndex);
             SceneManager.LoadScene(scenceBuildIndex, LoadSceneMode.Single);
-
         }
     }
-
-
 }

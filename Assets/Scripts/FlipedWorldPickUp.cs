@@ -14,8 +14,5 @@ public class FlipedWorldPickUp : MonoBehaviour
             player.flipWorld(flipDuration);
             Destroy(gameObject);
         }
-    
     }
-
-
 }
