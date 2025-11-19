@@ -4,11 +4,8 @@ public class Spikes : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-
-        if (collision.collider.GetComponent<PlayerMovement>()) {
-
+        if (collision.collider.GetComponent<PlayerMovement>()){
             collision.collider.GetComponent<PlayerMovement>().Die();
-
         }
     }
 }
