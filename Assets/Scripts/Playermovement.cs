@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement();
         jump();
-        
+        animations();
     }
 
     private void OnDestroy()
@@ -40,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void Die()
     {
+        _animator.SetBool("isDead", true);
         SceneManager.LoadScene("Level1");
     }
 
@@ -65,7 +66,8 @@ public class PlayerMovement : MonoBehaviour
         if (body.linearVelocity.y != 0)
         {
             _animator.SetBool("isJumping", true);
-        } else
+        }
+        else
         {
             _animator.SetBool("isJumping", false);
         }
