@@ -1,0 +1,3907 @@
+fileFormatVersion: 2
+guid: b8358686184598344ac79ebd8a3cfc48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578231436767392033
+    second: futurefall logo_0
+  - first:
+      213: 1073769770712112646
+    second: futurefall logo_1
+  - first:
+      213: -4932835709238425405
+    second: futurefall logo_2
+  - first:
+      213: 3690542792364581886
+    second: futurefall logo_3
+  - first:
+      213: -7713756059974631663
+    second: futurefall logo_4
+  - first:
+      213: -1588654747265105418
+    second: futurefall logo_5
+  - first:
+      213: -66339218280255462
+    second: futurefall logo_6
+  - first:
+      213: -3756323692782252494
+    second: futurefall logo_7
+  - first:
+      213: -134380824716188092
+    second: futurefall logo_8
+  - first:
+      213: -8287245562601345969
+    second: futurefall logo_9
+  - first:
+      213: 2610739966150792487
+    second: futurefall logo_10
+  - first:
+      213: -5449562081818079953
+    second: futurefall logo_11
+  - first:
+      213: 6026382173836316928
+    second: futurefall logo_12
+  - first:
+      213: -2721736294072189600
+    second: futurefall logo_13
+  - first:
+      213: -8649917385116805469
+    second: futurefall logo_14
+  - first:
+      213: 2020224744160090807
+    second: futurefall logo_15
+  - first:
+      213: -5790613647866539262
+    second: futurefall logo_16
+  - first:
+      213: 351032056906201824
+    second: futurefall logo_17
+  - first:
+      213: -7940248025646320281
+    second: futurefall logo_18
+  - first:
+      213: -7500539235187209010
+    second: futurefall logo_19
+  - first:
+      213: -3461630477443313517
+    second: futurefall logo_20
+  - first:
+      213: -6279614975956711882
+    second: futurefall logo_21
+  - first:
+      213: 651738497082949394
+    second: futurefall logo_22
+  - first:
+      213: 7722250204483779510
+    second: futurefall logo_23
+  - first:
+      213: -8065599364097569353
+    second: futurefall logo_24
+  - first:
+      213: 1675335219708877056
+    second: futurefall logo_25
+  - first:
+      213: 228924979251896141
+    second: futurefall logo_26
+  - first:
+      213: -3927261610786678802
+    second: futurefall logo_27
+  - first:
+      213: 5337635295425893788
+    second: futurefall logo_28
+  - first:
+      213: -4899814580548523268
+    second: futurefall logo_29
+  - first:
+      213: -4082096630292594810
+    second: futurefall logo_30
+  - first:
+      213: 9052866437170189500
+    second: futurefall logo_31
+  - first:
+      213: 902241872915635137
+    second: futurefall logo_32
+  - first:
+      213: -7334742052011132084
+    second: futurefall logo_33
+  - first:
+      213: -3054715099569830411
+    second: futurefall logo_34
+  - first:
+      213: 8065814519889652333
+    second: futurefall logo_35
+  - first:
+      213: 5545370914408798090
+    second: futurefall logo_36
+  - first:
+      213: 9139246555527882615
+    second: futurefall logo_37
+  - first:
+      213: -1125892317948379386
+    second: futurefall logo_38
+  - first:
+      213: 5346757869208251535
+    second: futurefall logo_39
+  - first:
+      213: 9067815557197396284
+    second: futurefall logo_40
+  - first:
+      213: 1170819422716118179
+    second: futurefall logo_41
+  - first:
+      213: -623390254038923515
+    second: futurefall logo_42
+  - first:
+      213: 5795548029120168205
+    second: futurefall logo_43
+  - first:
+      213: -4163425100573947188
+    second: futurefall logo_44
+  - first:
+      213: -7654187861779005583
+    second: futurefall logo_45
+  - first:
+      213: -1435126098214151354
+    second: futurefall logo_46
+  - first:
+      213: -2168097887149341836
+    second: futurefall logo_47
+  - first:
+      213: -3907458295847683261
+    second: futurefall logo_48
+  - first:
+      213: 6163330538786243616
+    second: futurefall logo_49
+  - first:
+      213: -87636071462129300
+    second: futurefall logo_50
+  - first:
+      213: 1468951923358553679
+    second: futurefall logo_51
+  - first:
+      213: -3301364315546541201
+    second: futurefall logo_52
+  - first:
+      213: -8766510029331483511
+    second: futurefall logo_53
+  - first:
+      213: 6845714471631241988
+    second: futurefall logo_54
+  - first:
+      213: 1457215382333878605
+    second: futurefall logo_55
+  - first:
+      213: -7844840965655147556
+    second: futurefall logo_56
+  - first:
+      213: -6160307658655768746
+    second: futurefall logo_57
+  - first:
+      213: -6555821797067529402
+    second: futurefall logo_58
+  - first:
+      213: -1258900129059444699
+    second: futurefall logo_59
+  - first:
+      213: 1685182298210803901
+    second: futurefall logo_60
+  - first:
+      213: 728378458677017636
+    second: futurefall logo_61
+  - first:
+      213: 5294454340694884014
+    second: futurefall logo_62
+  - first:
+      213: -218518254590248376
+    second: futurefall logo_63
+  - first:
+      213: -5166055192473726956
+    second: futurefall logo_64
+  - first:
+      213: -838021233477259689
+    second: futurefall logo_65
+  - first:
+      213: -5810258658652951622
+    second: futurefall logo_66
+  - first:
+      213: 242207640422873526
+    second: futurefall logo_67
+  - first:
+      213: 4554449488687440613
+    second: futurefall logo_68
+  - first:
+      213: 1302434807575066388
+    second: futurefall logo_69
+  - first:
+      213: 4690909206329632365
+    second: futurefall logo_70
+  - first:
+      213: -6457994487879718398
+    second: futurefall logo_71
+  - first:
+      213: 6526214107313459520
+    second: futurefall logo_72
+  - first:
+      213: 5402239805770203737
+    second: futurefall logo_73
+  - first:
+      213: -1351351077150336607
+    second: futurefall logo_74
+  - first:
+      213: -2264314236647075939
+    second: futurefall logo_75
+  - first:
+      213: -7540838317921462724
+    second: futurefall logo_76
+  - first:
+      213: 1242189505892820765
+    second: futurefall logo_77
+  - first:
+      213: 2302789419314720109
+    second: futurefall logo_78
+  - first:
+      213: 4009791447732368137
+    second: futurefall logo_79
+  - first:
+      213: -3935970792590107842
+    second: futurefall logo_80
+  - first:
+      213: 1455557595253416203
+    second: futurefall logo_81
+  - first:
+      213: 4207883655527306646
+    second: futurefall logo_82
+  - first:
+      213: -1819275759619060420
+    second: futurefall logo_83
+  - first:
+      213: 1136859112385866449
+    second: futurefall logo_84
+  - first:
+      213: -7031884518567691645
+    second: futurefall logo_85
+  - first:
+      213: 7125144372958008294
+    second: futurefall logo_86
+  - first:
+      213: 9014144788999332777
+    second: futurefall logo_87
+  - first:
+      213: -1374618181503081550
+    second: futurefall logo_88
+  - first:
+      213: -4165841071308558959
+    second: futurefall logo_89
+  - first:
+      213: 7260809049182967984
+    second: futurefall logo_90
+  - first:
+      213: -6061817839207527677
+    second: futurefall logo_91
+  - first:
+      213: 7365471366872117174
+    second: futurefall logo_92
+  - first:
+      213: 6775902383565064704
+    second: futurefall logo_93
+  - first:
+      213: -1733882166949962174
+    second: futurefall logo_94
+  - first:
+      213: -8693588150030591985
+    second: futurefall logo_95
+  - first:
+      213: -3669474498381661515
+    second: futurefall logo_96
+  - first:
+      213: -1237109690233831678
+    second: futurefall logo_97
+  - first:
+      213: -3728501686066898116
+    second: futurefall logo_98
+  - first:
+      213: -1319361837073512054
+    second: futurefall logo_99
+  - first:
+      213: -8527242693827315443
+    second: futurefall logo_100
+  - first:
+      213: -5945430960564035959
+    second: futurefall logo_101
+  - first:
+      213: 6947228112656614843
+    second: futurefall logo_102
+  - first:
+      213: -666199570326202103
+    second: futurefall logo_103
+  - first:
+      213: 2041504017757402650
+    second: futurefall logo_104
+  - first:
+      213: -8123939442744085117
+    second: futurefall logo_105
+  - first:
+      213: -4142243091772547555
+    second: futurefall logo_106
+  - first:
+      213: -3976994147693336270
+    second: futurefall logo_107
+  - first:
+      213: -5659295623337748318
+    second: futurefall logo_108
+  - first:
+      213: -6794328431925289819
+    second: futurefall logo_109
+  - first:
+      213: 8603933333987644044
+    second: futurefall logo_110
+  - first:
+      213: -8805281606165839316
+    second: futurefall logo_111
+  - first:
+      213: 3765863214973543935
+    second: futurefall logo_112
+  - first:
+      213: 2224792433529676237
+    second: futurefall logo_113
+  - first:
+      213: 1458744515071246692
+    second: futurefall logo_114
+  - first:
+      213: 7580156669281763576
+    second: futurefall logo_115
+  - first:
+      213: -2228726967526759272
+    second: futurefall logo_116
+  - first:
+      213: 3365382191628697853
+    second: futurefall logo_117
+  - first:
+      213: -5010257113519531316
+    second: futurefall logo_118
+  - first:
+      213: -5648846594931686065
+    second: futurefall logo_119
+  - first:
+      213: -127049589858341277
+    second: futurefall logo_120
+  - first:
+      213: -8091168085920753143
+    second: futurefall logo_121
+  - first:
+      213: -2621642201689869688
+    second: futurefall logo_122
+  - first:
+      213: 5814310202073329046
+    second: futurefall logo_123
+  - first:
+      213: -6290548672944094083
+    second: futurefall logo_124
+  - first:
+      213: -1507741791066665997
+    second: futurefall logo_125
+  - first:
+      213: 2661794183901328837
+    second: futurefall logo_126
+  - first:
+      213: -7266518876266566961
+    second: futurefall logo_127
+  - first:
+      213: -2495538203251017017
+    second: futurefall logo_128
+  - first:
+      213: -3905110881943826919
+    second: futurefall logo_129
+  - first:
+      213: 2069560308690579799
+    second: futurefall logo_130
+  - first:
+      213: -6666248413337997506
+    second: futurefall logo_131
+  - first:
+      213: 2312681871547308943
+    second: futurefall logo_132
+  - first:
+      213: -3488733520030079703
+    second: futurefall logo_133
+  - first:
+      213: -1722022905942246641
+    second: futurefall logo_134
+  - first:
+      213: 8866732475637165027
+    second: futurefall logo_135
+  - first:
+      213: 3770596961629543686
+    second: futurefall logo_136
+  - first:
+      213: 815428215039119908
+    second: futurefall logo_137
+  - first:
+      213: -7190979152847001848
+    second: futurefall logo_138
+  - first:
+      213: -8717561117880682176
+    second: futurefall logo_139
+  - first:
+      213: 1696539014195277849
+    second: futurefall logo_140
+  - first:
+      213: -1582569814561181265
+    second: futurefall logo_141
+  - first:
+      213: 4240355343596528665
+    second: futurefall logo_142
+  - first:
+      213: 4008801923854660949
+    second: futurefall logo_143
+  - first:
+      213: 1814430908307142430
+    second: futurefall logo_144
+  - first:
+      213: -7175425161957429006
+    second: futurefall logo_145
+  - first:
+      213: -1726020783199449015
+    second: futurefall logo_146
+  - first:
+      213: 1650661808938989248
+    second: futurefall logo_147
+  - first:
+      213: 4769606983210201378
+    second: futurefall logo_148
+  - first:
+      213: 1071182964753867488
+    second: futurefall logo_149
+  - first:
+      213: 8985219578878868005
+    second: futurefall logo_150
+  - first:
+      213: -8318802569791896073
+    second: futurefall logo_151
+  - first:
+      213: 2442712983225461556
+    second: futurefall logo_152
+  - first:
+      213: 5286273547026191109
+    second: futurefall logo_153
+  - first:
+      213: -2412226747501106366
+    second: futurefall logo_154
+  - first:
+      213: 6397752930976003397
+    second: futurefall logo_155
+  - first:
+      213: 6457798826819349965
+    second: futurefall logo_156
+  - first:
+      213: 6243874772498494386
+    second: futurefall logo_157
+  - first:
+      213: -110916236982295855
+    second: futurefall logo_158
+  - first:
+      213: -3683266306609856952
+    second: futurefall logo_159
+  - first:
+      213: -4180794664773329226
+    second: futurefall logo_160
+  - first:
+      213: 8372000123168888894
+    second: futurefall logo_161
+  - first:
+      213: 6567246882931907628
+    second: futurefall logo_162
+  - first:
+      213: -6742266826428694677
+    second: futurefall logo_163
+  - first:
+      213: -4573771553004698441
+    second: futurefall logo_164
+  - first:
+      213: 3932519371922019309
+    second: futurefall logo_165
+  - first:
+      213: -5870606973755348429
+    second: futurefall logo_166
+  - first:
+      213: 1086306036441830501
+    second: futurefall logo_167
+  - first:
+      213: 5427418892114775560
+    second: futurefall logo_168
+  - first:
+      213: -122341740757409188
+    second: futurefall logo_169
+  - first:
+      213: 8516502389686215957
+    second: futurefall logo_170
+  - first:
+      213: 4512575834620897762
+    second: futurefall logo_171
+  - first:
+      213: -3858992672154661083
+    second: futurefall logo_172
+  - first:
+      213: 2738663023077945739
+    second: futurefall logo_173
+  - first:
+      213: 2101180524322182767
+    second: futurefall logo_174
+  - first:
+      213: 1871511590009966018
+    second: futurefall logo_175
+  - first:
+      213: -3745624105552615821
+    second: futurefall logo_176
+  - first:
+      213: -1539232690441786249
+    second: futurefall logo_177
+  - first:
+      213: 696226962882027391
+    second: futurefall logo_178
+  - first:
+      213: 5943709820658687408
+    second: futurefall logo_179
+  - first:
+      213: 2187276426011260984
+    second: futurefall logo_180
+  - first:
+      213: 682954595336118955
+    second: futurefall logo_181
+  - first:
+      213: -2248750615805591329
+    second: futurefall logo_182
+  - first:
+      213: -2707733057342707284
+    second: futurefall logo_183
+  - first:
+      213: -5179864034278300658
+    second: futurefall logo_184
+  - first:
+      213: 2398889473929776323
+    second: futurefall logo_185
+  - first:
+      213: -6853303094539260775
+    second: futurefall logo_186
+  - first:
+      213: 3014232764715727788
+    second: futurefall logo_187
+  - first:
+      213: -2397157027033139138
+    second: futurefall logo_188
+  - first:
+      213: 8693590450060092049
+    second: futurefall logo_189
+  - first:
+      213: 3475392019284505056
+    second: futurefall logo_190
+  - first:
+      213: 6587303595633663022
+    second: futurefall logo_191
+  - first:
+      213: -1274506983004651833
+    second: futurefall logo_192
+  - first:
+      213: 792696040871548730
+    second: futurefall logo_193
+  - first:
+      213: -8416144179059115767
+    second: futurefall logo_194
+  - first:
+      213: -1709331671179965924
+    second: futurefall logo_195
+  - first:
+      213: -1064419205386568098
+    second: futurefall logo_196
+  - first:
+      213: 5064923026766350820
+    second: futurefall logo_197
+  - first:
+      213: 3453566844529499450
+    second: futurefall logo_198
+  - first:
+      213: -4625886794739712867
+    second: futurefall logo_199
+  - first:
+      213: 6472776679253969055
+    second: futurefall logo_200
+  - first:
+      213: -2853805027469917766
+    second: futurefall logo_201
+  - first:
+      213: -973619969708024721
+    second: futurefall logo_202
+  - first:
+      213: 6482823184162151636
+    second: futurefall logo_203
+  - first:
+      213: -519794650123352854
+    second: futurefall logo_204
+  - first:
+      213: -3351116394663056857
+    second: futurefall logo_205
+  - first:
+      213: 5001901715180723115
+    second: futurefall logo_206
+  - first:
+      213: -6970817645152253674
+    second: futurefall logo_207
+  - first:
+      213: -7196819366303455341
+    second: futurefall logo_208
+  - first:
+      213: -2987786596897953303
+    second: futurefall logo_209
+  - first:
+      213: 5075527314007967567
+    second: futurefall logo_210
+  - first:
+      213: -2977299641157478778
+    second: futurefall logo_211
+  - first:
+      213: 2142819346652914284
+    second: futurefall logo_212
+  - first:
+      213: 39777250354685405
+    second: futurefall logo_213
+  - first:
+      213: 6318716153522672700
+    second: futurefall logo_214
+  - first:
+      213: -7048520411392265797
+    second: futurefall logo_215
+  - first:
+      213: -2103511158461288803
+    second: futurefall logo_216
+  - first:
+      213: -5759589804626687394
+    second: futurefall logo_217
+  - first:
+      213: 3006231168884760846
+    second: futurefall logo_218
+  - first:
+      213: -2841733537171606297
+    second: futurefall logo_219
+  - first:
+      213: 7746070837470794302
+    second: futurefall logo_220
+  - first:
+      213: -3721161324849156179
+    second: futurefall logo_221
+  - first:
+      213: 2507024528104663006
+    second: futurefall logo_222
+  - first:
+      213: -5975921623485690196
+    second: futurefall logo_223
+  - first:
+      213: -1571519545032601356
+    second: futurefall logo_224
+  - first:
+      213: -2131030922851753475
+    second: futurefall logo_225
+  - first:
+      213: 7237393199906655222
+    second: futurefall logo_226
+  - first:
+      213: -790797204796465960
+    second: futurefall logo_227
+  - first:
+      213: -1215605922780434108
+    second: futurefall logo_228
+  - first:
+      213: 7290301927514220315
+    second: futurefall logo_229
+  - first:
+      213: -8626114017993560254
+    second: futurefall logo_230
+  - first:
+      213: 813346856985075259
+    second: futurefall logo_231
+  - first:
+      213: -8460283535036690570
+    second: futurefall logo_232
+  - first:
+      213: 5676207828133623407
+    second: futurefall logo_233
+  - first:
+      213: 3456470334564054641
+    second: futurefall logo_234
+  - first:
+      213: -7005411472392824186
+    second: futurefall logo_235
+  - first:
+      213: 5949963674351516796
+    second: futurefall logo_236
+  - first:
+      213: 6654635450903686913
+    second: futurefall logo_237
+  - first:
+      213: -8483998596886708251
+    second: futurefall logo_238
+  - first:
+      213: -2274374933628997531
+    second: futurefall logo_239
+  - first:
+      213: -5489796085729937024
+    second: futurefall logo_240
+  - first:
+      213: -5325481334737380396
+    second: futurefall logo_241
+  - first:
+      213: -2294518158556653587
+    second: futurefall logo_242
+  - first:
+      213: 8058227949049843422
+    second: futurefall logo_243
+  - first:
+      213: 2829491828668357700
+    second: futurefall logo_244
+  - first:
+      213: 5204919326681195621
+    second: futurefall logo_245
+  - first:
+      213: -7810549773495860008
+    second: futurefall logo_246
+  - first:
+      213: -6500885958543270429
+    second: futurefall logo_247
+  - first:
+      213: -7161433393701751944
+    second: futurefall logo_248
+  - first:
+      213: 2030317648859699738
+    second: futurefall logo_249
+  - first:
+      213: 5025428735033809602
+    second: futurefall logo_250
+  - first:
+      213: -793620616016878677
+    second: futurefall logo_251
+  - first:
+      213: 6108842632960741292
+    second: futurefall logo_252
+  - first:
+      213: -4151070754690831217
+    second: futurefall logo_253
+  - first:
+      213: -3565462916629106862
+    second: futurefall logo_254
+  - first:
+      213: -8231241596600067618
+    second: futurefall logo_255
+  - first:
+      213: 4914503126427959741
+    second: futurefall logo_256
+  - first:
+      213: -5761647723442171203
+    second: futurefall logo_257
+  - first:
+      213: 9093430298440116287
+    second: futurefall logo_258
+  - first:
+      213: 537807371321874779
+    second: futurefall logo_259
+  - first:
+      213: -5392019818941969280
+    second: futurefall logo_260
+  - first:
+      213: -5186023922058222207
+    second: futurefall logo_261
+  - first:
+      213: -5249759838514010206
+    second: futurefall logo_262
+  - first:
+      213: -2396924706543819437
+    second: futurefall logo_263
+  - first:
+      213: 2690369443507810269
+    second: futurefall logo_264
+  - first:
+      213: 8569778444859110905
+    second: futurefall logo_265
+  - first:
+      213: 4083109649645943180
+    second: futurefall logo_266
+  - first:
+      213: -4682822936390656986
+    second: futurefall logo_267
+  - first:
+      213: -1562023060622601701
+    second: futurefall logo_268
+  - first:
+      213: -336441144474099198
+    second: futurefall logo_269
+  - first:
+      213: -2364614887947364110
+    second: futurefall logo_270
+  - first:
+      213: -2636760916564553792
+    second: futurefall logo_271
+  - first:
+      213: 5055636830248036897
+    second: futurefall logo_272
+  - first:
+      213: 1834717920338795772
+    second: futurefall logo_273
+  - first:
+      213: 8566069168042084636
+    second: futurefall logo_274
+  - first:
+      213: 4905903666016034358
+    second: futurefall logo_275
+  - first:
+      213: 6853467921465179100
+    second: futurefall logo_276
+  - first:
+      213: 6790029023597367466
+    second: futurefall logo_277
+  - first:
+      213: 1454211404636286437
+    second: futurefall logo_278
+  - first:
+      213: -8369609686994619353
+    second: futurefall logo_279
+  - first:
+      213: 5771715400436543435
+    second: futurefall logo_280
+  - first:
+      213: 2182559754298175923
+    second: futurefall logo_281
+  - first:
+      213: -6294562936887946719
+    second: futurefall logo_282
+  - first:
+      213: 5606062688064288418
+    second: futurefall logo_283
+  - first:
+      213: 2248090422996282540
+    second: futurefall logo_284
+  - first:
+      213: 8465557310794390391
+    second: futurefall logo_285
+  - first:
+      213: -8416546695699361736
+    second: futurefall logo_286
+  - first:
+      213: -5311764864777012646
+    second: futurefall logo_287
+  - first:
+      213: -1270661827143560386
+    second: futurefall logo_288
+  - first:
+      213: -5679596554002597022
+    second: futurefall logo_289
+  - first:
+      213: -7078864196144222066
+    second: futurefall logo_290
+  - first:
+      213: -1858710400935207921
+    second: futurefall logo_291
+  - first:
+      213: 1917978442471795839
+    second: futurefall logo_292
+  - first:
+      213: 55016063134772912
+    second: futurefall logo_293
+  - first:
+      213: -3179645279501440060
+    second: futurefall logo_294
+  - first:
+      213: 8580420364855806160
+    second: futurefall logo_295
+  - first:
+      213: 2084716547487849534
+    second: futurefall logo_296
+  - first:
+      213: 3760152044531706389
+    second: futurefall logo_297
+  - first:
+      213: -3120103459068880135
+    second: futurefall logo_298
+  - first:
+      213: 3309899331413613240
+    second: futurefall logo_299
+  - first:
+      213: -3852871353383705592
+    second: futurefall logo_300
+  - first:
+      213: -5675909972493920949
+    second: futurefall logo_301
+  - first:
+      213: -9086184780305376017
+    second: futurefall logo_302
+  - first:
+      213: 6107601876663999085
+    second: futurefall logo_303
+  - first:
+      213: -8863894493696900483
+    second: futurefall logo_304
+  - first:
+      213: -9101047907114918812
+    second: futurefall logo_305
+  - first:
+      213: 351289758688797341
+    second: futurefall logo_306
+  - first:
+      213: -44833140315259776
+    second: futurefall logo_307
+  - first:
+      213: 370249615947200525
+    second: futurefall logo_308
+  - first:
+      213: -675169498523334833
+    second: futurefall logo_309
+  - first:
+      213: -6652917864007325896
+    second: futurefall logo_310
+  - first:
+      213: 7804813443575505298
+    second: futurefall logo_311
+  - first:
+      213: 2252533532375686845
+    second: futurefall logo_312
+  - first:
+      213: 6292516797377871801
+    second: futurefall logo_313
+  - first:
+      213: -257633788133030582
+    second: futurefall logo_314
+  - first:
+      213: -883101425892488547
+    second: futurefall logo_315
+  - first:
+      213: -925663554324846563
+    second: futurefall logo_316
+  - first:
+      213: 4291320914498793023
+    second: futurefall logo_317
+  - first:
+      213: 5896940006444360479
+    second: futurefall logo_318
+  - first:
+      213: 5310862827958489123
+    second: futurefall logo_319
+  - first:
+      213: 5072059379940971358
+    second: futurefall logo_320
+  - first:
+      213: -4299519475144435291
+    second: futurefall logo_321
+  - first:
+      213: 2439759296909767221
+    second: futurefall logo_322
+  - first:
+      213: 7088339607023363747
+    second: futurefall logo_323
+  - first:
+      213: 5698023721018193138
+    second: futurefall logo_324
+  - first:
+      213: 415799769401630908
+    second: futurefall logo_325
+  - first:
+      213: -2817499613837489889
+    second: futurefall logo_326
+  - first:
+      213: -871941275084630272
+    second: futurefall logo_327
+  - first:
+      213: -816000722594837371
+    second: futurefall logo_328
+  - first:
+      213: -4197032014632097765
+    second: futurefall logo_329
+  - first:
+      213: 6698944361999454961
+    second: futurefall logo_330
+  - first:
+      213: -2608687063128658524
+    second: futurefall logo_331
+  - first:
+      213: -2231905231175440335
+    second: futurefall logo_332
+  - first:
+      213: -8352650092452254169
+    second: futurefall logo_333
+  - first:
+      213: -1972900641122420022
+    second: futurefall logo_334
+  - first:
+      213: 707490147020185374
+    second: futurefall logo_335
+  - first:
+      213: -6433768878318079886
+    second: futurefall logo_336
+  - first:
+      213: -8197017641558559597
+    second: futurefall logo_337
+  - first:
+      213: 5212603825965733922
+    second: futurefall logo_338
+  - first:
+      213: 8474003988953967983
+    second: futurefall logo_339
+  - first:
+      213: 8232449326074931137
+    second: futurefall logo_340
+  - first:
+      213: -5830437762661808819
+    second: futurefall logo_341
+  - first:
+      213: 7450021429464416559
+    second: futurefall logo_342
+  - first:
+      213: -8002472361344126162
+    second: futurefall logo_343
+  - first:
+      213: -2576684136593364159
+    second: futurefall logo_344
+  - first:
+      213: -8644523961434340068
+    second: futurefall logo_345
+  - first:
+      213: -6342696106636433153
+    second: futurefall logo_346
+  - first:
+      213: 5300713401807092529
+    second: futurefall logo_347
+  - first:
+      213: 7424813205351168300
+    second: futurefall logo_348
+  - first:
+      213: -7792198329829032827
+    second: futurefall logo_349
+  - first:
+      213: 1538364587798985528
+    second: futurefall logo_350
+  - first:
+      213: -2502708895285609616
+    second: futurefall logo_351
+  - first:
+      213: 1099632474361242042
+    second: futurefall logo_352
+  - first:
+      213: -8295908105018161933
+    second: futurefall logo_353
+  - first:
+      213: 5504090985460530632
+    second: futurefall logo_354
+  - first:
+      213: -28645122062197044
+    second: futurefall logo_355
+  - first:
+      213: 5843452857138666572
+    second: futurefall logo_356
+  - first:
+      213: 5562153292733185098
+    second: futurefall logo_357
+  - first:
+      213: -5521021535189294014
+    second: futurefall logo_358
+  - first:
+      213: -1627278349311711188
+    second: futurefall logo_359
+  - first:
+      213: -8556126023980301283
+    second: futurefall logo_360
+  - first:
+      213: 2248103267779953031
+    second: futurefall logo_361
+  - first:
+      213: 7060656819312332329
+    second: futurefall logo_362
+  - first:
+      213: -1204760402220563669
+    second: futurefall logo_363
+  - first:
+      213: 7943367808718481432
+    second: futurefall logo_364
+  - first:
+      213: -6691919091031907726
+    second: futurefall logo_365
+  - first:
+      213: -7612951640513415380
+    second: futurefall logo_366
+  - first:
+      213: -9189618036936415400
+    second: futurefall logo_367
+  - first:
+      213: 2179236811867724458
+    second: futurefall logo_368
+  - first:
+      213: -3826717107006002974
+    second: futurefall logo_369
+  - first:
+      213: 5353458535175076148
+    second: futurefall logo_370
+  - first:
+      213: 4441386969932046542
+    second: futurefall logo_371
+  - first:
+      213: 6328623489750769892
+    second: futurefall logo_372
+  - first:
+      213: -9048201613926624217
+    second: futurefall logo_373
+  - first:
+      213: -5722916952352709363
+    second: futurefall logo_374
+  - first:
+      213: -1555685454721530005
+    second: futurefall logo_375
+  - first:
+      213: 8296986245344878642
+    second: futurefall logo_376
+  - first:
+      213: 62629782133350618
+    second: futurefall logo_377
+  - first:
+      213: -4461882967481271567
+    second: futurefall logo_378
+  - first:
+      213: -4053359591038796290
+    second: futurefall logo_379
+  - first:
+      213: -6638389700459499969
+    second: futurefall logo_380
+  - first:
+      213: 301935440323316235
+    second: futurefall logo_381
+  - first:
+      213: -2835572219074315422
+    second: futurefall logo_382
+  - first:
+      213: -1304202460364753124
+    second: futurefall logo_383
+  - first:
+      213: -3525563477403820054
+    second: futurefall logo_384
+  - first:
+      213: -5174955126834096497
+    second: futurefall logo_385
+  - first:
+      213: 6623677622778966059
+    second: futurefall logo_386
+  - first:
+      213: -7360530614605765165
+    second: futurefall logo_387
+  - first:
+      213: 669502897007056121
+    second: futurefall logo_388
+  - first:
+      213: 7577033842440249602
+    second: futurefall logo_389
+  - first:
+      213: -5736533314762372937
+    second: futurefall logo_390
+  - first:
+      213: -2348967707857049076
+    second: futurefall logo_391
+  - first:
+      213: 3279287209932539252
+    second: futurefall logo_392
+  - first:
+      213: -2757357719700945462
+    second: futurefall logo_393
+  - first:
+      213: -8794041819050130498
+    second: futurefall logo_394
+  - first:
+      213: 913980707210195071
+    second: futurefall logo_395
+  - first:
+      213: -4526318484432941334
+    second: futurefall logo_396
+  - first:
+      213: -3727851762071854432
+    second: futurefall logo_397
+  - first:
+      213: -8302156092666144967
+    second: futurefall logo_398
+  - first:
+      213: 3594785148447559056
+    second: futurefall logo_399
+  - first:
+      213: 8120195571589040324
+    second: futurefall logo_400
+  - first:
+      213: -8383759435653071639
+    second: futurefall logo_401
+  - first:
+      213: 7459517704278827597
+    second: futurefall logo_402
+  - first:
+      213: 2677566151945904835
+    second: futurefall logo_403
+  - first:
+      213: -5143784716561630395
+    second: futurefall logo_404
+  - first:
+      213: 8864434035297344278
+    second: futurefall logo_405
+  - first:
+      213: -30185483560069463
+    second: futurefall logo_406
+  - first:
+      213: -6851182035190541068
+    second: futurefall logo_407
+  - first:
+      213: 5680555338222226664
+    second: futurefall logo_408
+  - first:
+      213: 497939546086690090
+    second: futurefall logo_409
+  - first:
+      213: 1111316246750563959
+    second: futurefall logo_410
+  - first:
+      213: 6847467709757922027
+    second: futurefall logo_411
+  - first:
+      213: -6215056299636345349
+    second: futurefall logo_412
+  - first:
+      213: -8530289599125071748
+    second: futurefall logo_413
+  - first:
+      213: 7588976798737322724
+    second: futurefall logo_414
+  - first:
+      213: -186208050179298633
+    second: futurefall logo_415
+  - first:
+      213: -8135530746946676330
+    second: futurefall logo_416
+  - first:
+      213: 5478191927399228051
+    second: futurefall logo_417
+  - first:
+      213: 4429903050213218056
+    second: futurefall logo_418
+  - first:
+      213: 7811921713819198329
+    second: futurefall logo_419
+  - first:
+      213: -969065267837091387
+    second: futurefall logo_420
+  - first:
+      213: 7103757458630899290
+    second: futurefall logo_421
+  - first:
+      213: -7220761443339395080
+    second: futurefall logo_422
+  - first:
+      213: -2469455796898401054
+    second: futurefall logo_423
+  - first:
+      213: 8207552169258796968
+    second: futurefall logo_424
+  - first:
+      213: 2941734293054171999
+    second: futurefall logo_425
+  - first:
+      213: -2836390728541867393
+    second: futurefall logo_426
+  - first:
+      213: -941842703185577471
+    second: futurefall logo_427
+  - first:
+      213: 1640596797189752255
+    second: futurefall logo_428
+  - first:
+      213: -4379295255622142671
+    second: futurefall logo_429
+  - first:
+      213: 7606833740380879696
+    second: futurefall logo_430
+  - first:
+      213: 8563962931888941591
+    second: futurefall logo_431
+  - first:
+      213: 4496506046565877584
+    second: futurefall logo_432
+  - first:
+      213: -6967474745761452030
+    second: futurefall logo_433
+  - first:
+      213: 4406812685094006749
+    second: futurefall logo_434
+  - first:
+      213: 6677887961954053684
+    second: futurefall logo_435
+  - first:
+      213: -3888623811903931799
+    second: futurefall logo_436
+  - first:
+      213: 8197300838460480275
+    second: futurefall logo_437
+  - first:
+      213: -3738015151559558201
+    second: futurefall logo_438
+  - first:
+      213: 1270276827133145131
+    second: futurefall logo_439
+  - first:
+      213: 6286185518039960436
+    second: futurefall logo_440
+  - first:
+      213: -7986110568648643467
+    second: futurefall logo_441
+  - first:
+      213: 6528272854386537193
+    second: futurefall logo_442
+  - first:
+      213: 390484257379229137
+    second: futurefall logo_443
+  - first:
+      213: -8615902093356483226
+    second: futurefall logo_444
+  - first:
+      213: 2922592820472777718
+    second: futurefall logo_445
+  - first:
+      213: -845488761843700291
+    second: futurefall logo_446
+  - first:
+      213: 2716434483275607876
+    second: futurefall logo_447
+  - first:
+      213: -7533717737764598097
+    second: futurefall logo_448
+  - first:
+      213: -6871753793786247761
+    second: futurefall logo_449
+  - first:
+      213: 9052268048946664651
+    second: futurefall logo_450
+  - first:
+      213: 8286168833007687513
+    second: futurefall logo_451
+  - first:
+      213: 3895600530284735362
+    second: futurefall logo_452
+  - first:
+      213: -7014376031269424470
+    second: futurefall logo_453
+  - first:
+      213: 1331898243873748752
+    second: futurefall logo_454
+  - first:
+      213: 2879871804726989911
+    second: futurefall logo_455
+  - first:
+      213: -8885392238847766256
+    second: futurefall logo_456
+  - first:
+      213: 6246578213594785290
+    second: futurefall logo_457
+  - first:
+      213: 2272634608298462161
+    second: futurefall logo_458
+  - first:
+      213: -2329565033950831417
+    second: futurefall logo_459
+  - first:
+      213: 598840560844620770
+    second: futurefall logo_460
+  - first:
+      213: 2619110641388720279
+    second: futurefall logo_461
+  - first:
+      213: -5790152400907804135
+    second: futurefall logo_462
+  - first:
+      213: -8584109116628041119
+    second: futurefall logo_463
+  - first:
+      213: 8927797639154299515
+    second: futurefall logo_464
+  - first:
+      213: 7060807267870722386
+    second: futurefall logo_465
+  - first:
+      213: -915744641172051235
+    second: futurefall logo_466
+  - first:
+      213: -2210036885399906324
+    second: futurefall logo_467
+  - first:
+      213: 1139911173304077533
+    second: futurefall logo_468
+  - first:
+      213: 357119931516625941
+    second: futurefall logo_469
+  - first:
+      213: 2608283073815252622
+    second: futurefall logo_470
+  - first:
+      213: -5528466957668925260
+    second: futurefall logo_471
+  - first:
+      213: 9151258183688552294
+    second: futurefall logo_472
+  - first:
+      213: -4523194386250245417
+    second: futurefall logo_473
+  - first:
+      213: 4437169659595679043
+    second: futurefall logo_474
+  - first:
+      213: 7346988407476457910
+    second: futurefall logo_475
+  - first:
+      213: 4622026918595544813
+    second: futurefall logo_476
+  - first:
+      213: -47018496496704606
+    second: futurefall logo_477
+  - first:
+      213: 4980456188099332227
+    second: futurefall logo_478
+  - first:
+      213: -320769674329149100
+    second: futurefall logo_479
+  - first:
+      213: -2875697208028519667
+    second: futurefall logo_480
+  - first:
+      213: 6119536914731129290
+    second: futurefall logo_481
+  - first:
+      213: 5090864779718103829
+    second: futurefall logo_482
+  - first:
+      213: -4239184859564204097
+    second: futurefall logo_483
+  - first:
+      213: -3187341992761778480
+    second: futurefall logo_484
+  - first:
+      213: -4776433902386835867
+    second: futurefall logo_485
+  - first:
+      213: 5616201270328188176
+    second: futurefall logo_486
+  - first:
+      213: -4936614609956674904
+    second: futurefall logo_487
+  - first:
+      213: 5615913094959445445
+    second: futurefall logo_488
+  - first:
+      213: -559709234119889991
+    second: futurefall logo_489
+  - first:
+      213: -5458617675034960821
+    second: futurefall logo_490
+  - first:
+      213: 5189910950511574529
+    second: futurefall logo_491
+  - first:
+      213: -8496561081473752527
+    second: futurefall logo_492
+  - first:
+      213: -8438899807915851480
+    second: futurefall logo_493
+  - first:
+      213: 1904829882347772128
+    second: futurefall logo_494
+  - first:
+      213: -6502330872596517507
+    second: futurefall logo_495
+  - first:
+      213: 1499569624126584633
+    second: futurefall logo_496
+  - first:
+      213: 5180989837401046640
+    second: futurefall logo_497
+  - first:
+      213: 3326038858202033402
+    second: futurefall logo_498
+  - first:
+      213: 96460387279629058
+    second: futurefall logo_499
+  - first:
+      213: -6601911263462769387
+    second: futurefall logo_500
+  - first:
+      213: -5327743526436155486
+    second: futurefall logo_501
+  - first:
+      213: -4898924128526262377
+    second: futurefall logo_502
+  - first:
+      213: -5148018133587038712
+    second: futurefall logo_503
+  - first:
+      213: -6745628366156558871
+    second: futurefall logo_504
+  - first:
+      213: -1397605102833431733
+    second: futurefall logo_505
+  - first:
+      213: -231181158230374678
+    second: futurefall logo_506
+  - first:
+      213: -5335651327805479141
+    second: futurefall logo_507
+  - first:
+      213: -2618694510785758786
+    second: futurefall logo_508
+  - first:
+      213: 6368869886705254821
+    second: futurefall logo_509
+  - first:
+      213: 2231330765600316215
+    second: futurefall logo_510
+  - first:
+      213: -3504525198190626770
+    second: futurefall logo_511
+  - first:
+      213: 8466740507492702366
+    second: futurefall logo_512
+  - first:
+      213: 1354221958002169484
+    second: futurefall logo_513
+  - first:
+      213: -9085663892300110070
+    second: futurefall logo_514
+  - first:
+      213: 8900229816074341635
+    second: futurefall logo_515
+  - first:
+      213: -5205408745736269815
+    second: futurefall logo_516
+  - first:
+      213: 3861684195253652547
+    second: futurefall logo_517
+  - first:
+      213: -5605791491272081325
+    second: futurefall logo_518
+  - first:
+      213: -6388781758929343492
+    second: futurefall logo_519
+  - first:
+      213: -2587569936017764460
+    second: futurefall logo_520
+  - first:
+      213: -4284316094555808973
+    second: futurefall logo_521
+  - first:
+      213: 7144364452904355913
+    second: futurefall logo_522
+  - first:
+      213: 4426614540378737362
+    second: futurefall logo_523
+  - first:
+      213: -1714393199810417783
+    second: futurefall logo_524
+  - first:
+      213: -7711168315338972005
+    second: futurefall logo_525
+  - first:
+      213: -8120408205391046189
+    second: futurefall logo_526
+  - first:
+      213: -8472389766990619409
+    second: futurefall logo_527
+  - first:
+      213: -8968625492362263001
+    second: futurefall logo_528
+  - first:
+      213: -4453678247195935064
+    second: futurefall logo_529
+  - first:
+      213: -548939860664818593
+    second: futurefall logo_530
+  - first:
+      213: -2039730668318152168
+    second: futurefall logo_531
+  - first:
+      213: -4519900201260575187
+    second: futurefall logo_532
+  - first:
+      213: -3298858990713086077
+    second: futurefall logo_533
+  - first:
+      213: 4327159606266818912
+    second: futurefall logo_534
+  - first:
+      213: -2520550279292853041
+    second: futurefall logo_535
+  - first:
+      213: -4404975336991435362
+    second: futurefall logo_536
+  - first:
+      213: -3373127046660156213
+    second: futurefall logo_537
+  - first:
+      213: -586522012407068413
+    second: futurefall logo_538
+  - first:
+      213: -1063786443503645865
+    second: futurefall logo_539
+  - first:
+      213: -1195402482332376904
+    second: futurefall logo_540
+  - first:
+      213: -5326322190995045334
+    second: futurefall logo_541
+  - first:
+      213: -3315160214504319859
+    second: futurefall logo_542
+  - first:
+      213: -1006367095322526188
+    second: futurefall logo_543
+  - first:
+      213: -7619252455307771895
+    second: futurefall logo_544
+  - first:
+      213: -7428056025243008295
+    second: futurefall logo_545
+  - first:
+      213: 6627725820767974367
+    second: futurefall logo_546
+  - first:
+      213: -8614137969086941104
+    second: futurefall logo_547
+  - first:
+      213: 5552263101298950275
+    second: futurefall logo_548
+  - first:
+      213: 7442594993000340009
+    second: futurefall logo_549
+  - first:
+      213: 4013270365290510150
+    second: futurefall logo_550
+  - first:
+      213: 7493526517589134358
+    second: futurefall logo_551
+  - first:
+      213: -3141372128434589459
+    second: futurefall logo_552
+  - first:
+      213: -2329474520979821058
+    second: futurefall logo_553
+  - first:
+      213: -3455608611031119168
+    second: futurefall logo_554
+  - first:
+      213: -114682216157543476
+    second: futurefall logo_555
+  - first:
+      213: 3165075539682473374
+    second: futurefall logo_556
+  - first:
+      213: -1369965221057530607
+    second: futurefall logo_557
+  - first:
+      213: -503410011182335708
+    second: futurefall logo_558
+  - first:
+      213: -6825283980672059266
+    second: futurefall logo_559
+  - first:
+      213: 8174821921400941516
+    second: futurefall logo_560
+  - first:
+      213: -1531100267551403484
+    second: futurefall logo_561
+  - first:
+      213: -2555876962807697261
+    second: futurefall logo_562
+  - first:
+      213: -702178051477681262
+    second: futurefall logo_563
+  - first:
+      213: -4842645952842528362
+    second: futurefall logo_564
+  - first:
+      213: 9080057073169701308
+    second: futurefall logo_565
+  - first:
+      213: -54974845904038946
+    second: futurefall logo_566
+  - first:
+      213: -9048882401405736855
+    second: futurefall logo_567
+  - first:
+      213: 4678469040221380353
+    second: futurefall logo_568
+  - first:
+      213: 8214474156913121369
+    second: futurefall logo_569
+  - first:
+      213: 5523989570962201233
+    second: futurefall logo_570
+  - first:
+      213: -3417279303083693026
+    second: futurefall logo_571
+  - first:
+      213: 6107054753280207875
+    second: futurefall logo_572
+  - first:
+      213: -3167846570971952601
+    second: futurefall logo_573
+  - first:
+      213: 9170774316570871899
+    second: futurefall logo_574
+  - first:
+      213: 6695731918006241276
+    second: futurefall logo_575
+  - first:
+      213: 1657332684716592406
+    second: futurefall logo_576
+  - first:
+      213: 8671944934518469552
+    second: futurefall logo_577
+  - first:
+      213: -4608034965307269735
+    second: futurefall logo_578
+  - first:
+      213: -7180141117136365164
+    second: futurefall logo_579
+  - first:
+      213: -2941870745876568752
+    second: futurefall logo_580
+  - first:
+      213: -7281145890535526607
+    second: futurefall logo_581
+  - first:
+      213: 1664762195690370620
+    second: futurefall logo_582
+  - first:
+      213: -591628371280172666
+    second: futurefall logo_583
+  - first:
+      213: 608846262525990920
+    second: futurefall logo_584
+  - first:
+      213: -5228531418845822708
+    second: futurefall logo_585
+  - first:
+      213: 1602532595788654059
+    second: futurefall logo_586
+  - first:
+      213: -4507431159392390724
+    second: futurefall logo_587
+  - first:
+      213: 8377482583476175057
+    second: futurefall logo_588
+  - first:
+      213: 3047051050751914760
+    second: futurefall logo_589
+  - first:
+      213: -8324323431473498967
+    second: futurefall logo_590
+  - first:
+      213: 5793092786499527840
+    second: futurefall logo_591
+  - first:
+      213: 649622044943672937
+    second: futurefall logo_592
+  - first:
+      213: 7184721422170630572
+    second: futurefall logo_593
+  - first:
+      213: -1549769504772983672
+    second: futurefall logo_594
+  - first:
+      213: 7088833519008233578
+    second: futurefall logo_595
+  - first:
+      213: -3129019342077257652
+    second: futurefall logo_596
+  - first:
+      213: 5208882995172568023
+    second: futurefall logo_597
+  - first:
+      213: -2642238222267399929
+    second: futurefall logo_598
+  - first:
+      213: 6960861552204088095
+    second: futurefall logo_599
+  - first:
+      213: -3264849266471606036
+    second: futurefall logo_600
+  - first:
+      213: 3439138111273117248
+    second: futurefall logo_601
+  - first:
+      213: -2308815581491658529
+    second: futurefall logo_602
+  - first:
+      213: -3930371819062110758
+    second: futurefall logo_603
+  - first:
+      213: 5205566326932094570
+    second: futurefall logo_604
+  - first:
+      213: -754155081976200512
+    second: futurefall logo_605
+  - first:
+      213: -1486512800299988640
+    second: futurefall logo_606
+  - first:
+      213: -7765459260634302422
+    second: futurefall logo_607
+  - first:
+      213: 2898772018403081460
+    second: futurefall logo_608
+  - first:
+      213: -8276844745103569115
+    second: futurefall logo_609
+  - first:
+      213: 4612930475077971914
+    second: futurefall logo_610
+  - first:
+      213: -3401226746966435470
+    second: futurefall logo_611
+  - first:
+      213: -3386376504260890595
+    second: futurefall logo_612
+  - first:
+      213: -4100014201961756419
+    second: futurefall logo_613
+  - first:
+      213: 2735288711156500901
+    second: futurefall logo_614
+  - first:
+      213: -1868993978128029484
+    second: futurefall logo_615
+  - first:
+      213: 5294556978675975409
+    second: futurefall logo_616
+  - first:
+      213: 9116039760483172820
+    second: futurefall logo_617
+  - first:
+      213: 6162473222513265606
+    second: futurefall logo_618
+  - first:
+      213: -3822449409456088292
+    second: futurefall logo_619
+  - first:
+      213: 3288310794075494930
+    second: futurefall logo_620
+  - first:
+      213: 346036820766582221
+    second: futurefall logo_621
+  - first:
+      213: -1549358364537885275
+    second: futurefall logo_622
+  - first:
+      213: -1819251193532236123
+    second: futurefall logo_623
+  - first:
+      213: -8185450340713769236
+    second: futurefall logo_624
+  - first:
+      213: 2587568911486220697
+    second: futurefall logo_625
+  - first:
+      213: -4425844005796294333
+    second: futurefall logo_626
+  - first:
+      213: -501791701069149700
+    second: futurefall logo_627
+  - first:
+      213: 2113865773639056095
+    second: futurefall logo_628
+  - first:
+      213: -4599374293349505524
+    second: futurefall logo_629
+  - first:
+      213: -83916518072983829
+    second: futurefall logo_630
+  - first:
+      213: -4480408736005535953
+    second: futurefall logo_631
+  - first:
+      213: -1417237404535065041
+    second: futurefall logo_632
+  - first:
+      213: -7471538839201686800
+    second: futurefall logo_633
+  - first:
+      213: -3085495254251091508
+    second: futurefall logo_634
+  - first:
+      213: -4947862047036490888
+    second: futurefall logo_635
+  - first:
+      213: -5871916167682958147
+    second: futurefall logo_636
+  - first:
+      213: -8907178790839206215
+    second: futurefall logo_637
+  - first:
+      213: -7750118312371532269
+    second: futurefall logo_638
+  - first:
+      213: 2559326263208696253
+    second: futurefall logo_639
+  - first:
+      213: -1498993379259780775
+    second: futurefall logo_640
+  - first:
+      213: 6468172610820280080
+    second: futurefall logo_641
+  - first:
+      213: 2243455966608497745
+    second: futurefall logo_642
+  - first:
+      213: 3074294072327312864
+    second: futurefall logo_643
+  - first:
+      213: -2163843273530161324
+    second: futurefall logo_644
+  - first:
+      213: 4107559746195378400
+    second: futurefall logo_645
+  - first:
+      213: -3070005555991522681
+    second: futurefall logo_646
+  - first:
+      213: -7977718708553682828
+    second: futurefall logo_647
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: futurefall logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f3d683a29a4b50800000000000000
+      internalID: 6578231436767392033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e19d9daebc6ee00800000000000000
+      internalID: 1073769770712112646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c84b77ce0c0b8bb0800000000000000
+      internalID: -4932835709238425405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3e447cd11773330800000000000000
+      internalID: 3690542792364581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ff1319bbb33f490800000000000000
+      internalID: -7713756059974631663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18686ace6f3f9e0800000000000000
+      internalID: -1588654747265105418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_6
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1683
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107abb15d0541ff0800000000000000
+      internalID: -66339218280255462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e8456d08bdedbc0800000000000000
+      internalID: -3756323692782252494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446ea261a55922ef0800000000000000
+      internalID: -134380824716188092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ce6ba811acdfc80800000000000000
+      internalID: -8287245562601345969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725555bba263b3420800000000000000
+      internalID: 2610739966150792487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_11
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d8bcbd8244f54b0800000000000000
+      internalID: -5449562081818079953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_12
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001924078a202a350800000000000000
+      internalID: 6026382173836316928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_13
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1530
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06df98bc2437a3ad0800000000000000
+      internalID: -2721736294072189600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a613aba7f155f780800000000000000
+      internalID: -8649917385116805469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7badd1283b7490c10800000000000000
+      internalID: 2020224744160090807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d267319b93afa0800000000000000
+      internalID: -5790613647866539262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_17
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea3ba0cbcd1fd400800000000000000
+      internalID: 351032056906201824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765bada6d729ec190800000000000000
+      internalID: -7940248025646320281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc49ce1e4bb8e790800000000000000
+      internalID: -7500539235187209010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1377
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905358db61d5ffc0800000000000000
+      internalID: -3461630477443313517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63680ef33735ad8a0800000000000000
+      internalID: -6279614975956711882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f7315c5b07b0900800000000000000
+      internalID: 651738497082949394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb71f095a1fa2b60800000000000000
+      internalID: 7722250204483779510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd095a9c1c311090800000000000000
+      internalID: -8065599364097569353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_25
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d27a818cff3710800000000000000
+      internalID: 1675335219708877056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_26
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd5844e0e4d2300800000000000000
+      internalID: 228924979251896141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1224
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7180d5f509f79c0800000000000000
+      internalID: -3927261610786678802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95927c6507131a40800000000000000
+      internalID: 5337635295425893788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa202d699c500cb0800000000000000
+      internalID: -4899814580548523268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f379c1eba7957c0800000000000000
+      internalID: -4082096630292594810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d59a7f0e32ad70800000000000000
+      internalID: 9052866437170189500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb9e900438658c00800000000000000
+      internalID: 902241872915635137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_33
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb1cef6f2c53a90800000000000000
+      internalID: -7334742052011132084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_34
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1071
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54e103dc87b95d0800000000000000
+      internalID: -3054715099569830411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae53242978fef60800000000000000
+      internalID: 8065814519889652333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a879e1d477d15fc40800000000000000
+      internalID: 5545370914408798090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a3f8025025de70800000000000000
+      internalID: 9139246555527882615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f785de6e60060f0800000000000000
+      internalID: -1125892317948379386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cae2624ff733a40800000000000000
+      internalID: 5346757869208251535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_40
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39f287b43a57dd70800000000000000
+      internalID: 9067815557197396284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_41
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 918
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44f1bcf069f3010800000000000000
+      internalID: 1170819422716118179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c197edd54957f0800000000000000
+      internalID: -623390254038923515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d014c62f93ced6050800000000000000
+      internalID: 5795548029120168205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca48570eea8836c0800000000000000
+      internalID: -4163425100573947188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3e8e71bcd6c590800000000000000
+      internalID: -7654187861779005583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9d04da68651ce0800000000000000
+      internalID: -1435126098214151354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473403e657e59e1e0800000000000000
+      internalID: -2168097887149341836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_48
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 765
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b785de16be5c9c0800000000000000
+      internalID: -3907458295847683261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024cba5687c888550800000000000000
+      internalID: 6163330538786243616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c613df21577a8cef0800000000000000
+      internalID: -87636071462129300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_51
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46d9efcdf3c26410800000000000000
+      internalID: 1468951923358553679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63a2b975a23f22d0800000000000000
+      internalID: -3301364315546541201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9843cc54399175680800000000000000
+      internalID: -8766510029331483511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c453ba0dd00f50800000000000000
+      internalID: 6845714471631241988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_55
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 612
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41fe396ba1193410800000000000000
+      internalID: 1457215382333878605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb41ba94b6812390800000000000000
+      internalID: -7844840965655147556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f54bab2d0328aa0800000000000000
+      internalID: -6160307658655768746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e60f4fca0505a0800000000000000
+      internalID: -6555821797067529402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_59
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e7b7a00d778ee0800000000000000
+      internalID: -1258900129059444699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a1aa2f58f26710800000000000000
+      internalID: 1685182298210803901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_61
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c7d7b5958bb1a00800000000000000
+      internalID: 728378458677017636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_62
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 459
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeb4a0fb2ea97940800000000000000
+      internalID: 5294454340694884014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ab5322ecaa7fcf0800000000000000
+      internalID: -218518254590248376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4109a826c2c7e48b0800000000000000
+      internalID: -5166055192473726956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e6a50d020ce54f0800000000000000
+      internalID: -838021233477259689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_66
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb6ad5b880dd5fa0800000000000000
+      internalID: -5810258658652951622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97a41d09e7c5300800000000000000
+      internalID: 242207640422873526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_68
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2aca0fda7a43f30800000000000000
+      internalID: 4554449488687440613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_69
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 306
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bd909e8d231210800000000000000
+      internalID: 1302434807575066388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6623e4d115791140800000000000000
+      internalID: 4690909206329632365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aaf7caa389066a0800000000000000
+      internalID: -6457994487879718398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_72
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041df8a3725c19a50800000000000000
+      internalID: 6526214107313459520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_73
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95288662b7c98fa40800000000000000
+      internalID: 5402239805770203737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_74
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9dc97ea590f3de0800000000000000
+      internalID: -1351351077150336607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_75
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f8ac8d23a8390e0800000000000000
+      internalID: -2264314236647075939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_76
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 153
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3613afb08f895790800000000000000
+      internalID: -7540838317921462724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a57236c42d3110800000000000000
+      internalID: 1242189505892820765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d28c2b6c625ff10800000000000000
+      internalID: 2302789419314720109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: futurefall logo_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903bc71b314a5a730800000000000000
+      internalID: 4009791447732368137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6db30be67d9f8dd4680ae99620500cfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":640.0,"y":153.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      futurefall logo_0: 6578231436767392033
+      futurefall logo_1: 1073769770712112646
+      futurefall logo_10: 2610739966150792487
+      futurefall logo_11: -5449562081818079953
+      futurefall logo_12: 6026382173836316928
+      futurefall logo_13: -2721736294072189600
+      futurefall logo_14: -8649917385116805469
+      futurefall logo_15: 2020224744160090807
+      futurefall logo_16: -5790613647866539262
+      futurefall logo_17: 351032056906201824
+      futurefall logo_18: -7940248025646320281
+      futurefall logo_19: -7500539235187209010
+      futurefall logo_2: -4932835709238425405
+      futurefall logo_20: -3461630477443313517
+      futurefall logo_21: -6279614975956711882
+      futurefall logo_22: 651738497082949394
+      futurefall logo_23: 7722250204483779510
+      futurefall logo_24: -8065599364097569353
+      futurefall logo_25: 1675335219708877056
+      futurefall logo_26: 228924979251896141
+      futurefall logo_27: -3927261610786678802
+      futurefall logo_28: 5337635295425893788
+      futurefall logo_29: -4899814580548523268
+      futurefall logo_3: 3690542792364581886
+      futurefall logo_30: -4082096630292594810
+      futurefall logo_31: 9052866437170189500
+      futurefall logo_32: 902241872915635137
+      futurefall logo_33: -7334742052011132084
+      futurefall logo_34: -3054715099569830411
+      futurefall logo_35: 8065814519889652333
+      futurefall logo_36: 5545370914408798090
+      futurefall logo_37: 9139246555527882615
+      futurefall logo_38: -1125892317948379386
+      futurefall logo_39: 5346757869208251535
+      futurefall logo_4: -7713756059974631663
+      futurefall logo_40: 9067815557197396284
+      futurefall logo_41: 1170819422716118179
+      futurefall logo_42: -623390254038923515
+      futurefall logo_43: 5795548029120168205
+      futurefall logo_44: -4163425100573947188
+      futurefall logo_45: -7654187861779005583
+      futurefall logo_46: -1435126098214151354
+      futurefall logo_47: -2168097887149341836
+      futurefall logo_48: -3907458295847683261
+      futurefall logo_49: 6163330538786243616
+      futurefall logo_5: -1588654747265105418
+      futurefall logo_50: -87636071462129300
+      futurefall logo_51: 1468951923358553679
+      futurefall logo_52: -3301364315546541201
+      futurefall logo_53: -8766510029331483511
+      futurefall logo_54: 6845714471631241988
+      futurefall logo_55: 1457215382333878605
+      futurefall logo_56: -7844840965655147556
+      futurefall logo_57: -6160307658655768746
+      futurefall logo_58: -6555821797067529402
+      futurefall logo_59: -1258900129059444699
+      futurefall logo_6: -66339218280255462
+      futurefall logo_60: 1685182298210803901
+      futurefall logo_61: 728378458677017636
+      futurefall logo_62: 5294454340694884014
+      futurefall logo_63: -218518254590248376
+      futurefall logo_64: -5166055192473726956
+      futurefall logo_65: -838021233477259689
+      futurefall logo_66: -5810258658652951622
+      futurefall logo_67: 242207640422873526
+      futurefall logo_68: 4554449488687440613
+      futurefall logo_69: 1302434807575066388
+      futurefall logo_7: -3756323692782252494
+      futurefall logo_70: 4690909206329632365
+      futurefall logo_71: -6457994487879718398
+      futurefall logo_72: 6526214107313459520
+      futurefall logo_73: 5402239805770203737
+      futurefall logo_74: -1351351077150336607
+      futurefall logo_75: -2264314236647075939
+      futurefall logo_76: -7540838317921462724
+      futurefall logo_77: 1242189505892820765
+      futurefall logo_78: 2302789419314720109
+      futurefall logo_79: 4009791447732368137
+      futurefall logo_8: -134380824716188092
+      futurefall logo_80: -3935970792590107842
+      futurefall logo_81: 1455557595253416203
+      futurefall logo_82: 4207883655527306646
+      futurefall logo_83: -1819275759619060420
+      futurefall logo_9: -8287245562601345969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
