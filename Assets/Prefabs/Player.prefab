@@ -111,7 +111,7 @@ MonoBehaviour:
   ScoreCollected: 0
   ScoreToAdvance: 3
   speed: 5
-  jumpForce: 5
+  jumpForce: 7
   jumpcooldown: 0.9
   nextjumptime: 0
   Duration_Fliped_World: 0
