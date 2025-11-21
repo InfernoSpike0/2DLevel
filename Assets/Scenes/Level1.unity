@@ -66686,7 +66686,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TurretShooter
   laserPrefab: {fileID: 6814615620096332437, guid: 5d90d7180ffd0fc49bca1dc6c5444631, type: 3}
   firePoint: {fileID: 993398735}
-  fireRate: 1
+  fireRate: 2
 --- !u!4 &2033011545 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7878350319992209165, guid: 1b894a37b15d7944b911ea8d9d4cd858, type: 3}
