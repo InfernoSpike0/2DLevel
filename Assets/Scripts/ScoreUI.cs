@@ -13,7 +13,7 @@ public class ScoreUI : MonoBehaviour
         if (player != null && ScoreText != null)
         {
 
-            ScoreText.text = " Score:  " + player.ScoreCollected + "/" + Score_To_Advance;
+            ScoreText.text = " Keys:  " + player.ScoreCollected + "/" + Score_To_Advance;
 
 
 
