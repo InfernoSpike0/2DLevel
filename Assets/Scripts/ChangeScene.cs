@@ -19,7 +19,7 @@ public class ChangeScene : MonoBehaviour
     {
 
         Debug.Log(" Try Again");
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("AlexLevel1");
 
 
     }

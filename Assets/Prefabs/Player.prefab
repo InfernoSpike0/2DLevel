@@ -110,7 +110,7 @@ MonoBehaviour:
   body: {fileID: 4661477841443937490}
   ScoreCollected: 0
   ScoreToAdvance: 3
-  speed: 5
+  speed: 7.5
   jumpForce: 7
   jumpcooldown: 0.9
   nextjumptime: 0
