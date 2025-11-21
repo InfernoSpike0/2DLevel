@@ -19,8 +19,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Animator _animator;
     Collider2D target;
     bool grab = false;
-    bool isFlipped = false;
     Transform originalParent;
+    private bool facingRight = true;
 
     private void Awake()
     {
@@ -31,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        //flipCharacter();
         if (grab == false)
         {
             movement();
@@ -108,6 +109,19 @@ public void jump()
 
     public void animations()
     {
+        //Fixes backwards facing error, shanges facing right variable depending on velocity direction
+        if (body.linearVelocity.x > 0.1f)
+        {
+            facingRight = true;
+        }
+        else if (body.linearVelocity.x < -0.1f)
+        {
+            facingRight = false;
+        }
+
+        //Creates and sets variable every second, flips x depending on direction of velocity, flips y depending on isflipped variable
+        float xScale = facingRight ? 10 : -10;
+        float yScale = isflipped ? -10 : 10;
 
         if (body.linearVelocity.y != 0)
         {
@@ -118,14 +132,8 @@ public void jump()
             _animator.SetBool("isJumping", false);
         }
 
-        if (body.linearVelocity.x > 0)
-        {
-            transform.localScale = new Vector3(10, 10, 10);
-        }
-        else if (body.linearVelocity.x < 0)
-        {
-            transform.localScale = new Vector3(-10, 10, 10);
-        }
+        //apply variables to transform
+        transform.localScale = new Vector3(xScale, yScale, 10);
 
         if (body.linearVelocity.x != 0)
         {
@@ -147,7 +155,6 @@ public void jump()
         yield return new WaitForSeconds(duration);
         speed -= boostAmount;
     }
-
     public void flipWorld(float durationFlipworld)
     {
         StartCoroutine(FlipedworldRountine(durationFlipworld));
