@@ -22,11 +22,11 @@ public class Laser : MonoBehaviour
         transform.position += moveDirection * speed * Time.deltaTime;
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.CompareTag("player"))
+        if (collision.GetComponent<PlayerMovement>())
         {
-            SceneManager.LoadScene(1);
+            collision.GetComponent<PlayerMovement>().Die();
         }
     }
 }
