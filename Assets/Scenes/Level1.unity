@@ -1775,7 +1775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8af2f50af74c7cb4f9c702c68175dfe3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CountdownTimer
-  startTime: 1000
+  startTime: 600
   timerText: {fileID: 2075908567}
 --- !u!4 &1005488125
 Transform:
@@ -66191,7 +66191,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: Level1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
@@ -66286,7 +66286,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 1.7244987, y: -91}
+  m_AnchoredPosition: {x: 52, y: 37}
   m_SizeDelta: {x: 1149.028, y: 548.445}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!1 &1854464745
@@ -66455,7 +66455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1897468253
 RectTransform:
   m_ObjectHideFlags: 0
@@ -66618,7 +66618,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 1b894a37b15d7944b911ea8d9d4cd858, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.8
+      value: -8.4
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 1b894a37b15d7944b911ea8d9d4cd858, type: 3}
       propertyPath: m_LocalPosition.y
