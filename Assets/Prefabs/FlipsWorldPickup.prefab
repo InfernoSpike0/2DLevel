@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 2062807226372874097}
   - component: {fileID: -3502027065973614913}
   - component: {fileID: 6052305500886222567}
-  - component: {fileID: 944500014823246600}
   m_Layer: 0
   m_Name: FlipsWorldPickup
   m_TagString: Untagged
@@ -105,7 +104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29f5976ed59504a439f75b994d280c3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FlipedWorldPickUp
-  flipDuration: 10000
+  flipDuration: 5
 --- !u!61 &6052305500886222567
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -152,16 +151,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.4, y: 0.4}
   m_EdgeRadius: 0
---- !u!114 &944500014823246600
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4110541557666408555}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 29f5976ed59504a439f75b994d280c3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FlipedWorldPickUp
-  flipDuration: 1000
