@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     bool grab = false;
     Transform originalParent;
     private bool facingRight = true;
+    private bool isGrounded = true;
 
     private void Awake()
     {
@@ -40,7 +41,7 @@ public class PlayerMovement : MonoBehaviour
         {
             GrabbedMovement();
         }
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time >= nextjumptime)
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             jump();
             Debug.Log("Jump Active");
@@ -270,5 +271,21 @@ public void jump()
         transform.SetParent(originalParent, true);
 
         Debug.Log("Released " + target.name);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = true;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = false;
+        }
     }
 }

@@ -627,10 +627,24 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 02bb0000
+    m_LastClickedID: 47874
+    m_ExpandedIDs: 00000000beba0000c0ba0000
+=======
+    scrollPos: {x: 0, y: 6}
+    m_SelectedIDs: 12ba0000
+    m_LastClickedID: 47634
+    m_ExpandedIDs: 00000000beb90000c0b90000c2b90000c4b90000c6b90000c8b90000
+>>>>>>> Stashed changes
+=======
     scrollPos: {x: 0, y: 6}
     m_SelectedIDs: 50b90000
     m_LastClickedID: 47440
     m_ExpandedIDs: 0000000098b900009ab900009cb900009eb90000a0b90000a2b90000a4b90000a6b90000a8b90000
+<<<<<<< HEAD
 =======
   m_LastProjectPath: C:\Users\digio\2DLevel
   m_LockTracker:
@@ -650,6 +664,9 @@ MonoBehaviour:
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
+>>>>>>> origin/main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -686,6 +703,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     m_ExpandedIDs: 0000000098b900009ab900009cb900009eb90000a0b90000a2b90000a4b90000a6b90000a8b90000
@@ -695,6 +713,17 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 0000000008ba0000
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+    m_ExpandedIDs: 00000000beba0000c0ba0000
+=======
+    m_ExpandedIDs: 00000000beb90000c0b90000c2b90000c4b90000c6b90000c8b90000
+>>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 0000000098b900009ab900009cb900009eb90000a0b90000a2b90000a4b90000a6b90000a8b90000
+>>>>>>> origin/main
+>>>>>>> origin/main
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1669,9 +1698,20 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+    m_Target: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -22.96404, y: -11.596558, z: -0.112430826}
+>>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
     m_Target: {x: 1.5418165, y: -3.8005638, z: -0.020831378}
+>>>>>>> origin/main
     speed: 2
     m_Value: {x: 1.5418165, y: -3.8005638, z: -0.020831378}
 =======
@@ -1733,9 +1773,20 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+    m_Target: 10
+=======
+    m_Target: 21.149181
+>>>>>>> Stashed changes
+=======
+>>>>>>> origin/main
     m_Target: 12.082845
+>>>>>>> origin/main
     speed: 2
     m_Value: 12.082845
 =======
