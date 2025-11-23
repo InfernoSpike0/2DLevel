@@ -341,10 +341,17 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< Updated upstream
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 02bb0000
     m_LastClickedID: 47874
     m_ExpandedIDs: 00000000beba0000c0ba0000
+=======
+    scrollPos: {x: 0, y: 6}
+    m_SelectedIDs: 12ba0000
+    m_LastClickedID: 47634
+    m_ExpandedIDs: 00000000beb90000c0b90000c2b90000c4b90000c6b90000c8b90000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -373,7 +380,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000beba0000c0ba0000
+=======
+    m_ExpandedIDs: 00000000beb90000c0b90000c2b90000c4b90000c6b90000c8b90000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1013,7 +1024,11 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -22.96404, y: -11.596558, z: -0.112430826}
+>>>>>>> Stashed changes
     speed: 2
     m_Value: {x: 0.86981124, y: -0.6955935, z: -0.0486095}
   m_RenderMode: 0
@@ -1065,7 +1080,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 10
+=======
+    m_Target: 21.149181
+>>>>>>> Stashed changes
     speed: 2
     m_Value: 14.86095
   m_Ortho:
