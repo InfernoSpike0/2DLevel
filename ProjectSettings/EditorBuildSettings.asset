@@ -44,6 +44,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TryAgain.unity
     guid: 0237567273e72e5409b675c21c7e19ed
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 466c78ac47cbfbe439f3bb2d4c402f5d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
